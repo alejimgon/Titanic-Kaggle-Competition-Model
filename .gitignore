@@ -1,7 +1,10 @@
-*.csv
+# *.csv
 .DS_Store
 
-
+/data/*
+!/data/output/
+/data/output/*
+!.gitkeep
 # Standard Python gitignore
 
 # Byte-compiled / optimized / DLL files
