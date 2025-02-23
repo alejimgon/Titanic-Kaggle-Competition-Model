@@ -14,7 +14,7 @@
 - [License](#license)
 
 ## Description
-This script contains my current model for the Titanic Kaggle competition. It uses GridSearchCV to find the best parameters between `RandomForestClassifier` and `CatBoostClassifier`. The best model is then trained and used to predict the test set. The predictions are saved in a CSV file in the 'output' folder.
+This repository contains my current model for the Titanic Kaggle competition. It uses GridSearchCV to find the best parameters between `RandomForestClassifier` and `CatBoostClassifier`. The best model is then trained and used to predict the test set. The predictions are saved in a CSV file in the 'output' folder.
 
 ## Installation
 1. **Clone the repository**:
