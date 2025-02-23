@@ -1,7 +1,7 @@
 # Titanic Kaggle Competition Model
 
 ## Author: Alejandro Jiménez-González
-### Date: 2025-04-02
+### Date: 2025-02-23
 
 ## Table of Contents
 - [Description](#description)
