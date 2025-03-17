@@ -19,7 +19,7 @@ This repository contains my current model for the Titanic Kaggle competition. It
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/alejimgon/Titanic-Kaggle-Competition-Model.git
-    cd titanic-kaggle
+    cd Titanic-Kaggle-Competition-Model
     ```
 
 2. **Set up the conda environment**:
