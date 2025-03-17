@@ -1,7 +1,6 @@
 # Titanic Kaggle Competition Model
 
 ## Author: Alejandro Jiménez-González
-### Date: 2025-02-23
 
 ## Table of Contents
 - [Description](#description)
@@ -19,7 +18,7 @@ This repository contains my current model for the Titanic Kaggle competition. It
 ## Installation
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/titanic-kaggle.git
+    git clone https://github.com/alejimgon/Titanic-Kaggle-Competition-Model.git
     cd titanic-kaggle
     ```
 
